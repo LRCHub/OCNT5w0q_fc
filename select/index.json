@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "START IT AGAIN",
+  "base_artist": "AK-69",
+  "createdAt": "2026-02-16T12:05:49.311910Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Let's start it again",
+      "artist": "Kemuri",
+      "has_synced": false,
+      "path": "select/01_Let's_start_it_again_Kemuri.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "START IT AGAIN",
+      "artist": "AK-69",
+      "has_synced": true,
+      "path": "select/02_START_IT_AGAIN_AK-69.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Start It Again - Radio Edit",
+      "artist": "Sergio Mauri",
+      "has_synced": false,
+      "path": "select/03_Start_It_Again_-_Radio_Edit_Sergio_Mauri.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Start It Again",
+      "artist": "Aziatix",
+      "has_synced": true,
+      "path": "select/04_Start_It_Again_Aziatix.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "START IT AGAIN",
+      "artist": "AK-69",
+      "has_synced": false,
+      "path": "select/pl_01_START_IT_AGAIN_AK-69.txt"
+    }
+  ]
+}
